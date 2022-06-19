@@ -8,5 +8,5 @@ handlers:
   upload: index.html
 
 - url: /
-  static_files: style.css
-  upload: style.css
+  static_files: styles.css
+  upload: styles.css
